@@ -1,6 +1,6 @@
 {
   "name": "iopipe-echo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple echo example",
   "main": "index.js",
   "scripts": {
